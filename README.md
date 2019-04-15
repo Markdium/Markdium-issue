@@ -1,4 +1,4 @@
-![](./markdium2.png)
+![](./markdium2.png =256x256)
 
 # Markdium issue repo
 
